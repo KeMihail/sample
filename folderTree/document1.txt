@@ -1,3 +1,0 @@
-This is document one.
-
-New line in current file.
